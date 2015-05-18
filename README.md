@@ -21,7 +21,7 @@ Code for Japan 井戸端会議 はCode for Japanに関心がある方が気軽�
 * もくもくと作業をする
 * 打ち合わせ
 
-外部リンク
+リンク
 ------------
 
 * [Code for Japan 井戸端会議 Wiki](https://github.com/codeforjapan/IdobataKaigi/wiki/Code-for-Japan-%E4%BA%95%E6%88%B8%E7%AB%AF%E4%BC%9A%E8%AD%B0-Wiki)
