@@ -24,7 +24,7 @@ Code for Japan 井戸端会議 はCode for Japanに関心がある方が気軽�
 外部リンク
 ------------
 
-* [Code for Japan 井戸端会議 Wiki](https://github.com/codeforjapan/IdobataKaigi/wiki/Code-for-Japan-%E4%BA%95%E6%88%B8%E7%AB%AF%E4%BC%9A%E8%AD%B0-wiki!)
+* [Code for Japan 井戸端会議 Wiki](https://github.com/codeforjapan/IdobataKaigi/wiki/Code-for-Japan-%E4%BA%95%E6%88%B8%E7%AB%AF%E4%BC%9A%E8%AD%B0-Wiki)
 * タスク情報(waffle.io)   [![Stories in Ready](https://badge.waffle.io/codeforjapan/idobatakaigi.png?label=ready&title=Ready)](https://waffle.io/codeforjapan/idobatakaigi)
 * チャットルーム (Gitter)  [![Join the chat at https://gitter.im/codeforjapan/IdobataKaigi](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeforjapan/IdobataKaigi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
