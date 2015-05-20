@@ -6,7 +6,7 @@ Code for Japan 井戸端会議 はCode for Japanに関心がある方が気軽�
 基本的には毎週木曜日の夜に定期開催されています。
 どうぞ都合の良いときにふるってご参加下さい。  
 
-[本イベントへの参加登録はDoorKeeperでも募集しています](https://codeforjapan.doorkeeper.jp/)
+[本イベントへの参加登録はDoorKeeperで募集しています](https://codeforjapan.doorkeeper.jp/)
 
 井戸端会議はオンライン参加も可能です。オンライン参加をご希望の方はイベント情報をご覧ください。
 
