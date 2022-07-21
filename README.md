@@ -1,6 +1,6 @@
 Code for Japan 井戸端会議 概要
 ---------------------
-| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+| ⚠️ This repository has been archived and will no longer be maintained. Thanks for all the stars, help and brainstorms! |
 
 
 Code for Japan 井戸端会議 はCode for Japanに関心がある方が気軽に議論したり相談しあったりする為に、毎週木曜日に開催している場です。  
